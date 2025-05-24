@@ -7,6 +7,7 @@ import (
 	"log"
 	"math"
 	"os"
+	"strconv"
 
 	"cloud.google.com/go/firestore"
 	"google.golang.org/api/iterator"
@@ -36,6 +37,22 @@ func roundCoord(coord float64, precision int) float64 {
 	return math.Round(coord*factor) / factor
 }
 
+func readLastTimestamp(path string) int64 {
+	data, err := os.ReadFile(path)
+	if err != nil {
+		return 0 // default to 0 if file doesn't exist
+	}
+	ts, err := strconv.ParseInt(string(data), 10, 64)
+	if err != nil {
+		return 0
+	}
+	return ts
+}
+
+func writeLastTimestamp(path string, ts int64) {
+	os.WriteFile(path, []byte(fmt.Sprintf("%d", ts)), 0644)
+}
+
 func main() {
 	ctx := context.Background()
 
@@ -45,13 +62,36 @@ func main() {
 	}
 	defer client.Close()
 
-	iter := client.Collection("signal_logs").Documents(ctx)
+	lastTS := readLastTimestamp("public/last_timestamp.txt")
+	iter := client.Collection("signal_logs").Where("timestamp", ">", lastTS).Documents(ctx)
+
 	type key struct {
 		Lat float64
 		Lon float64
 	}
 
 	deduped := make(map[key]SignalLog)
+	var maxTS int64 = lastTS
+
+	// Load existing heatmap if present
+	if data, err := os.ReadFile("public/heatmap.json"); err == nil {
+		var existing GeoJSONFeatureCollection
+		if err := json.Unmarshal(data, &existing); err == nil {
+			for _, f := range existing.Features {
+				coords := f.Geometry["coordinates"].([]interface{})
+				lon := coords[0].(float64)
+				lat := coords[1].(float64)
+				signal := int(f.Properties["signalDbm"].(float64))
+				ts := int64(f.Properties["timestamp"].(float64))
+				carrier := f.Properties["carrier"].(string)
+				k := key{Lat: lat, Lon: lon}
+				deduped[k] = SignalLog{Latitude: lat, Longitude: lon, SignalDbm: signal, Timestamp: ts, Carrier: carrier}
+				if ts > maxTS {
+					maxTS = ts
+				}
+			}
+		}
+	}
 
 	for {
 		doc, err := iter.Next()
@@ -78,6 +118,10 @@ func main() {
 		existing, found := deduped[k]
 		if !found || logEntry.SignalDbm > existing.SignalDbm {
 			deduped[k] = logEntry
+		}
+
+		if logEntry.Timestamp > maxTS {
+			maxTS = logEntry.Timestamp
 		}
 	}
 
@@ -115,5 +159,6 @@ func main() {
 		log.Fatalf("Failed to write GeoJSON: %v", err)
 	}
 
-	fmt.Println("✅ Full heatmap.json generated.")
+	writeLastTimestamp("public/last_timestamp.txt", maxTS)
+	fmt.Println("✅ Incremental heatmap.json generated.")
 }

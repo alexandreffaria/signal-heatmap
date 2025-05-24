@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9284,
+          -19.9196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -81,
+        "timestamp": 1748019365299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9586,
+          -19.9394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "TIM Brasil",
+        "signalDbm": -96,
+        "timestamp": 1748020526624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9447,
+          -19.9437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748052170670
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9461,
+          -19.9437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1747872242101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9806,
+          -19.9696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -85,
+        "timestamp": 1748028916609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9447,
+          -19.9438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748052162185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9587,
+          -19.9394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "TIM Brasil",
+        "signalDbm": -95,
+        "timestamp": 1748020836625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.3068,
+          -20.3638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -115,
+        "timestamp": 1747963913429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9613,
+          -19.9731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -91,
+        "timestamp": 1748022779587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.3069,
+          -20.3639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -112,
+        "timestamp": 1747961447545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9058,
+          -19.8806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -89,
+        "timestamp": 1747961304474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9447,
+          -19.9439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1747867818853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.3068,
+          -20.364
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -109,
+        "timestamp": 1747964667197
+      }
+    }
+  ]
+}

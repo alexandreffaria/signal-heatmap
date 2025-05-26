@@ -31,10 +31,16 @@ jobs:
       - name: Generate heatmap
         run: go run main.go
 
+      - name: Copy heatmap to web/public directory
+        run: |
+          mkdir -p web/public
+          cp public/heatmap.json web/public/heatmap.json
+          echo "Copied heatmap.json to web/public directory"
+
       - name: Commit and push heatmap and timestamp
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add public/heatmap.json public/last_timestamp.txt
+          git add public/heatmap.json public/last_timestamp.txt web/public/heatmap.json
           git commit -m "Update heatmap and timestamp [CI skip]" || echo "No changes to commit"
           git push

@@ -56,8 +56,14 @@ func writeLastTimestamp(path string, ts int64) {
 func main() {
 	ctx := context.Background()
 
-	// Set up credentials using the firebase-key.json file
-	os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "firebase-key.json")
+	// Only set the credentials environment variable if it's not already set
+	if os.Getenv("GOOGLE_APPLICATION_CREDENTIALS") == "" {
+		// Set up credentials using the firebase-key.json file for local development
+		os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "firebase-key.json")
+		fmt.Println("Set GOOGLE_APPLICATION_CREDENTIALS to firebase-key.json")
+	} else {
+		fmt.Println("Using existing GOOGLE_APPLICATION_CREDENTIALS:", os.Getenv("GOOGLE_APPLICATION_CREDENTIALS"))
+	}
 
 	client, err := firestore.NewClient(ctx, "cellsignalmapper-a9da1")
 	if err != nil {

@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 
 function getColor(signalDbm) {
   if (signalDbm > -70) return 'green';
-  if (signalDbm > -85) return 'orange';
+  if (signalDbm > -80) return 'orange';
   return 'red';
 }
 

@@ -11,7 +11,7 @@ export default function MapView() {
   const [features, setFeatures] = useState([]);
 
   useEffect(() => {
-    fetch('/heatmap.json')
+    fetch(import.meta.env.BASE_URL + '/heatmap.json')
       .then(res => res.json())
       .then(data => {
         setFeatures(data.features || []);

@@ -20,165 +20,60 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9368,
-          -19.9481
+          -43.9528,
+          -19.9854
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274124735
+        "timestamp": 1748274525730
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9386,
-          -19.9527
+          -43.9459,
+          -19.9439
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274245735
+        "timestamp": 1748273866743
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9389,
-          -19.9531
+          -43.9597,
+          -19.9939
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274251759
+        "timestamp": 1748274597734
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9421,
-          -19.9464
+          -43.9587,
+          -19.9394
         ],
         "type": "Point"
       },
       "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274004729
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9405,
-          -19.9557
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275109184
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9591,
-          -19.9928
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274591734
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9383,
-          -19.9525
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275169253
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9369,
-          -19.9488
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274142717
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.941,
-          -19.9467
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274022708
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9612,
-          -19.9962
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274609735
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9384,
-          -19.9523
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274239739
+        "carrier": "TIM Brasil",
+        "signalDbm": -95,
+        "timestamp": 1748020836625
       }
     },
     {
@@ -200,216 +95,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9397,
-          -19.9546
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275127247
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9655,
-          -20.0013
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274663714
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9431,
-          -19.9461
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273992732
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9443,
-          -19.9601
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274323725
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9806,
-          -19.9696
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Claro Brasil",
-        "signalDbm": -85,
-        "timestamp": 1748028916609
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9512,
-          -19.9837
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274513717
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9647,
-          -20.0016
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274693710
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.946,
-          -19.9447
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273884724
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9626,
-          -19.9982
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274621742
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.946,
-          -19.9451
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273890716
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9445,
-          -19.9437
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748239981104
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.94,
-          -19.9469
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274046728
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9652,
-          -20.0019
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274651723
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9447,
-          -19.9438
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748052162185
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           -43.9504,
           -19.9828
         ],
@@ -419,216 +104,6 @@
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
         "timestamp": 1748274507720
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9387,
-          -19.9473
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274082731
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9371,
-          -19.9507
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275217256
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9657,
-          -20.0018
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274657730
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9639,
-          -19.9999
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274633728
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9447,
-          -19.9439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1747867818853
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9402,
-          -19.9552
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275115212
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9417,
-          -19.9465
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274010706
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9544,
-          -19.9872
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274537719
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9605,
-          -19.995
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274603729
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.94,
-          -19.9547
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274269754
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9444,
-          -19.946
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273944726
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9446,
-          -19.9438
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748225117273
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9528,
-          -19.9854
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274525730
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9373,
-          -19.9496
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274189218
       }
     },
     {
@@ -651,44 +126,59 @@
       "geometry": {
         "coordinates": [
           -43.9447,
-          -19.946
+          -19.9437
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748273938730
+        "timestamp": 1748052170670
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9437,
-          -19.9594
+          -43.9395,
+          -19.9471
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274317734
+        "timestamp": 1748274064721
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9447,
-          -19.9617
+          -43.9395,
+          -19.9542
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274335731
+        "timestamp": 1748275145264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9377,
+          -19.9513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274191713
       }
     },
     {
@@ -696,44 +186,59 @@
       "geometry": {
         "coordinates": [
           -43.9426,
-          -19.9579
+          -19.9463
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274305721
+        "timestamp": 1748273998723
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9393,
-          -19.9539
+          -43.9572,
+          -19.9904
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748275151260
+        "timestamp": 1748274573716
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.939,
-          -19.9536
+          -43.9446,
+          -19.9439
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748275157253
+        "timestamp": 1748227878565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9448,
+          -19.9439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748238786132
       }
     },
     {
@@ -755,75 +260,30 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9645,
-          -20.0011
+          -43.9431,
+          -19.9461
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274675699
+        "timestamp": 1748273992732
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9381,
-          -19.9474
+          -43.9393,
+          -19.9471
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274094733
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9442,
-          -19.9623
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274341741
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9376,
-          -19.9514
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275181261
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9369,
-          -19.9503
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275223264
+        "timestamp": 1748274070721
       }
     },
     {
@@ -845,30 +305,450 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -40.3068,
-          -20.364
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -109,
-        "timestamp": 1747964667197
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9578,
-          -19.991
+          -43.9652,
+          -20.0019
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274579719
+        "timestamp": 1748274651723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9383,
+          -19.9474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274088710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9356,
+          -19.9485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275241248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.94,
+          -19.9469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274046728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9446,
+          -19.9438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748225117273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.946,
+          -19.9459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273914715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9451,
+          -19.946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273932708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9445,
+          -19.9437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748239981104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9284,
+          -19.9196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -81,
+        "timestamp": 1748019365299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9437,
+          -19.9594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274317734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9651,
+          -20.0009
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274669709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.945,
+          -19.9439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273854721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9396,
+          -19.9541
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274263740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.965,
+          -20.0014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274645728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9441,
+          -19.946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273980748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9373,
+          -19.951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275187250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.946,
+          -19.9451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273890716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.94,
+          -19.9547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274269754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.952,
+          -19.9846
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274519729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.3069,
+          -20.3639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -112,
+        "timestamp": 1747961447545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9469,
+          -19.9758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274465602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9586,
+          -19.9394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "TIM Brasil",
+        "signalDbm": -96,
+        "timestamp": 1748020526624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9647,
+          -20.0016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274693710
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9474,
+          -19.9768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274471678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9613,
+          -19.9731
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -91,
+        "timestamp": 1748022779587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9426,
+          -19.9579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274305721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9381,
+          -19.9474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274094733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9408,
+          -19.9467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274028750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9406,
+          -19.9556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274281743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9397,
+          -19.9546
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275127247
       }
     },
     {
@@ -905,51 +785,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9372,
-          -19.9508
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275193255
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9372,
-          -19.9493
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274148717
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9383,
-          -19.9474
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274088710
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           -43.9456,
           -19.946
         ],
@@ -965,75 +800,75 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9427,
-          -19.9627
+          -43.9369,
+          -19.9481
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274353717
+        "timestamp": 1748274118717
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9365,
-          -19.9498
+          -43.9512,
+          -19.9837
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748275229266
+        "timestamp": 1748274513717
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9646,
-          -20.0012
+          -43.9639,
+          -19.9999
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274699727
+        "timestamp": 1748274633728
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9404,
-          -19.9468
+          -43.9417,
+          -19.9465
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274040739
+        "timestamp": 1748274010706
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9426,
-          -19.9463
+          -40.3068,
+          -20.364
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273998723
+        "signalDbm": -109,
+        "timestamp": 1747964667197
       }
     },
     {
@@ -1055,45 +890,315 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.946,
-          -19.9459
+          -43.9536,
+          -19.9863
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748273914715
+        "timestamp": 1748274531720
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.952,
-          -19.9846
+          -43.938,
+          -19.9518
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274519729
+        "timestamp": 1748274233789
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9408,
-          -19.9467
+          -43.9419,
+          -19.9573
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274028750
+        "timestamp": 1748274299739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9369,
+          -19.9503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275223264
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9372,
+          -19.9493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274148717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.956,
+          -19.989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274555737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9397,
+          -19.947
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274052715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9491,
+          -19.9811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274495740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9427,
+          -19.9627
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274353717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9369,
+          -19.9488
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274142717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9806,
+          -19.9696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -85,
+        "timestamp": 1748028916609
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9365,
+          -19.9498
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275229266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9387,
+          -19.9531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275163254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9644,
+          -20.0018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274687695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9397,
+          -19.9545
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275139251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9405,
+          -19.9557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275109184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9578,
+          -19.991
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274579719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9486,
+          -19.9801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274489717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9389,
+          -19.9531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274251759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9384,
+          -19.9523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274239739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9605,
+          -19.995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274603729
       }
     },
     {
@@ -1101,6 +1206,66 @@
       "geometry": {
         "coordinates": [
           -43.9447,
+          -19.946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273938730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9404,
+          -19.9468
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274040739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9497,
+          -19.9819
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274501715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9504,
+          -19.9356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748225473659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9448,
           -19.9437
         ],
         "type": "Point"
@@ -1108,59 +1273,44 @@
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748052170670
+        "timestamp": 1748228387126
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9409,
-          -19.9561
+          -43.9383,
+          -19.9525
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748275103453
+        "timestamp": 1748275169253
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9406,
-          -19.9556
+          -43.9626,
+          -19.9982
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274281743
+        "timestamp": 1748274621742
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9395,
-          -19.9471
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274064721
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9455,
+          -43.9447,
           -19.9439
         ],
         "type": "Point"
@@ -1168,7 +1318,352 @@
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748273860716
+        "timestamp": 1747867818853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9399,
+          -19.9548
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275121239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9619,
+          -19.9972
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274615728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9412,
+          -19.9466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274016736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9443,
+          -19.9601
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274323725
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9544,
+          -19.9872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274537719
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9376,
+          -19.9514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275181261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9461,
+          -19.9437
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1747872242101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9449,
+          -19.9438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748237645555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9568,
+          -19.9899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274567723
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9372,
+          -19.9508
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275193255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9555,
+          -19.9885
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274549718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9393,
+          -19.9536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274257759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9377,
+          -19.9475
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274106726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.941,
+          -19.9562
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274287731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9448,
+          -19.9438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748228939038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9371,
+          -19.9507
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275217256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9402,
+          -19.9552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275115212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9645,
+          -20.0011
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274675699
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9641,
+          -20.0015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274681708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9431,
+          -19.9587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274311705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9646,
+          -20.0012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274699727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -40.3068,
+          -20.3638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -115,
+        "timestamp": 1747963913429
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9477,
+          -19.9779
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274477682
       }
     },
     {
@@ -1190,30 +1685,120 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -40.3069,
-          -20.3639
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -112,
-        "timestamp": 1747961447545
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9451,
-          -19.946
+          -43.9365,
+          -19.948
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748273932708
+        "timestamp": 1748274130705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9058,
+          -19.8806
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Claro Brasil",
+        "signalDbm": -89,
+        "timestamp": 1747961304474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9564,
+          -19.9895
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274561715
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9612,
+          -19.9962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274609735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9373,
+          -19.9496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274189218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9591,
+          -19.9928
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274591734
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.946,
+          -19.9447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273884724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9393,
+          -19.9539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275151260
       }
     },
     {
@@ -1250,276 +1835,6 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9284,
-          -19.9196
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Claro Brasil",
-        "signalDbm": -81,
-        "timestamp": 1748019365299
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9393,
-          -19.9471
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274070721
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9641,
-          -20.0015
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274681708
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.956,
-          -19.989
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274555737
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9469,
-          -19.9758
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274465602
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9536,
-          -19.9863
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274531720
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9586,
-          -19.9394
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "TIM Brasil",
-        "signalDbm": -96,
-        "timestamp": 1748020526624
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9651,
-          -20.0009
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274669709
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9497,
-          -19.9819
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274501715
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9474,
-          -19.9768
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274471678
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9504,
-          -19.9356
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748225473659
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9461,
-          -19.9437
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1747872242101
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -40.3068,
-          -20.3638
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -115,
-        "timestamp": 1747963913429
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9449,
-          -19.9438
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748237645555
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9399,
-          -19.9548
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275121239
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9555,
-          -19.9885
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274549718
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.938,
-          -19.9518
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274233789
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.945,
-          -19.9439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273854721
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
           -43.946,
           -19.9458
         ],
@@ -1529,366 +1844,6 @@
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
         "timestamp": 1748273902735
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9395,
-          -19.9542
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275145264
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9397,
-          -19.947
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274052715
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9646,
-          -20.0007
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274639740
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9365,
-          -19.948
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274130705
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9396,
-          -19.9541
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274263740
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9397,
-          -19.9545
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275139251
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9379,
-          -19.9516
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274227744
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9572,
-          -19.9904
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274573716
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9448,
-          -19.9439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748238786132
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9459,
-          -19.9439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273866743
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9393,
-          -19.9536
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274257759
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9387,
-          -19.9531
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275163254
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9356,
-          -19.9485
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275241248
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9377,
-          -19.9475
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274106726
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9058,
-          -19.8806
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Claro Brasil",
-        "signalDbm": -89,
-        "timestamp": 1747961304474
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9448,
-          -19.9437
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748228387126
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9477,
-          -19.9779
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274477682
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9644,
-          -20.0018
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274687695
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.965,
-          -20.0014
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274645728
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9597,
-          -19.9939
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274597734
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9441,
-          -19.946
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273980748
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.941,
-          -19.9562
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274287731
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9564,
-          -19.9895
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274561715
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9365,
-          -19.9483
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274136729
       }
     },
     {
@@ -1910,225 +1865,45 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9619,
-          -19.9972
+          -43.9421,
+          -19.9464
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274615728
+        "timestamp": 1748274004729
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9369,
-          -19.9481
+          -43.9655,
+          -20.0013
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274118717
+        "timestamp": 1748274663714
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9448,
-          -19.9438
+          -43.9447,
+          -19.9617
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748228939038
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9412,
-          -19.9466
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274016736
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9373,
-          -19.951
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748275187250
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9446,
-          -19.9439
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748227878565
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9372,
-          -19.9477
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274112717
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9613,
-          -19.9731
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Claro Brasil",
-        "signalDbm": -91,
-        "timestamp": 1748022779587
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.946,
-          -19.9442
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273878733
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9419,
-          -19.9573
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274299739
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9431,
-          -19.9587
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274311705
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9568,
-          -19.9899
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274567723
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9587,
-          -19.9394
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "TIM Brasil",
-        "signalDbm": -95,
-        "timestamp": 1748020836625
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9436,
-          -19.946
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748273986772
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -43.9377,
-          -19.9513
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "carrier": "Vivo (Telefônica Brasil)",
-        "signalDbm": -24,
-        "timestamp": 1748274191713
+        "timestamp": 1748274335731
       }
     },
     {
@@ -2150,30 +1925,255 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9491,
-          -19.9811
+          -43.9387,
+          -19.9473
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274495740
+        "timestamp": 1748274082731
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -43.9486,
-          -19.9801
+          -43.9444,
+          -19.946
         ],
         "type": "Point"
       },
       "properties": {
         "carrier": "Vivo (Telefônica Brasil)",
         "signalDbm": -24,
-        "timestamp": 1748274489717
+        "timestamp": 1748273944726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9646,
+          -20.0007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274639740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9372,
+          -19.9477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274112717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9368,
+          -19.9481
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274124735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9386,
+          -19.9527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274245735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9657,
+          -20.0018
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274657730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.939,
+          -19.9536
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275157253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9455,
+          -19.9439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273860716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9379,
+          -19.9516
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274227744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9447,
+          -19.9438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748052162185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9365,
+          -19.9483
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274136729
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9436,
+          -19.946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273986772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.941,
+          -19.9467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274022708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9442,
+          -19.9623
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748274341741
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.9409,
+          -19.9561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748275103453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -43.946,
+          -19.9442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "carrier": "Vivo (Telefônica Brasil)",
+        "signalDbm": -24,
+        "timestamp": 1748273878733
       }
     }
   ]

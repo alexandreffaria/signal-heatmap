@@ -22,7 +22,7 @@ jobs:
 
       - name: Restore Firebase key
         run: |
-          echo "${{ secrets.FIREBASE_KEY_JSON }}" > firebase-key.json
+          echo "${{ secrets.FIREBASE_KEY_JSON }}" | base64 --decode > firebase-key.json
           echo "firebase-key.json created"
 
       - name: Set credentials env

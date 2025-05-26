@@ -56,6 +56,9 @@ func writeLastTimestamp(path string, ts int64) {
 func main() {
 	ctx := context.Background()
 
+	// Set up credentials using the firebase-key.json file
+	os.Setenv("GOOGLE_APPLICATION_CREDENTIALS", "firebase-key.json")
+
 	client, err := firestore.NewClient(ctx, "cellsignalmapper-a9da1")
 	if err != nil {
 		log.Fatalf("Failed to create Firestore client: %v", err)
@@ -146,6 +149,7 @@ func main() {
 		Features: features,
 	}
 
+	// Create public directory if it doesn't exist
 	os.MkdirAll("public", 0755)
 	file, err := os.Create("public/heatmap.json")
 	if err != nil {
@@ -153,12 +157,27 @@ func main() {
 	}
 	defer file.Close()
 
+	// Encode the GeoJSON to the file
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")
 	if err := encoder.Encode(collection); err != nil {
 		log.Fatalf("Failed to write GeoJSON: %v", err)
 	}
 
+	// Also create web/public directory if it doesn't exist
+	os.MkdirAll("web/public", 0755)
+
+	// Marshal the JSON to a byte array for copying to web/public
+	jsonData, err := json.MarshalIndent(collection, "", "  ")
+	if err != nil {
+		log.Fatalf("Failed to marshal JSON: %v", err)
+	}
+
+	// Write the same data to web/public/heatmap.json
+	if err := os.WriteFile("web/public/heatmap.json", jsonData, 0644); err != nil {
+		log.Fatalf("Failed to write to web/public/heatmap.json: %v", err)
+	}
+
 	writeLastTimestamp("public/last_timestamp.txt", maxTS)
-	fmt.Println("✅ Incremental heatmap.json generated.")
+	fmt.Println("✅ Incremental heatmap.json generated and copied to web/public/.")
 }

@@ -46,3 +46,10 @@ jobs:
           git commit -m "Update heatmap and timestamp [CI skip]" || echo "No changes to commit"
           git push origin main
 
+      - name: Trigger Deploy Workflow
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          event-type: trigger-deploy
+
+

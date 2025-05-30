@@ -144,7 +144,8 @@ func main() {
 	})
 
 	// start HTTP server
-	addr := ":8082"
+	port := os.Getenv("PORT")
+	addr := ":" + port
 	srv := &http.Server{
 		Addr:         addr,
 		ReadTimeout:  5 * time.Second,

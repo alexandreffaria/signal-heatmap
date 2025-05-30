@@ -11,7 +11,6 @@ import (
 
 	"cloud.google.com/go/firestore"
 	"google.golang.org/api/iterator"
-	"google.golang.org/api/option"
 )
 
 var (
@@ -73,7 +72,7 @@ func main() {
 	projectID := "cellsignalmapper-a9da1"
 
 	// use the JSON key pointed to by GOOGLE_APPLICATION_CREDENTIALS
-	client, err := firestore.NewClient(ctx, projectID, option.WithCredentialsFile(os.Getenv("GOOGLE_APPLICATION_CREDENTIALS")))
+	client, err := firestore.NewClient(ctx, projectID)
 	if err != nil {
 		log.Fatalf("firestore.NewClient: %v", err)
 	}

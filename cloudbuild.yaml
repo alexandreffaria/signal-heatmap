@@ -1,0 +1,27 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+  - build
+  - '-t'
+  - 'gcr.io/$PROJECT_ID/cellsignalmap'
+  - '.'
+
+- name: 'gcr.io/cloud-builders/docker'
+  args:
+  - 'push'
+  - 'gcr.io/$PROJECT_ID/cellsignalmap'
+
+- name: 'gcr.io/cloud-builders/gcloud'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    gcloud run deploy cellsignalmap \
+      --image gcr.io/$PROJECT_ID/cellsignalmap \
+      --platform managed \
+      --region us-central1 \
+      --allow-unauthenticated \
+      --port 8082
+
+images:
+- 'gcr.io/$PROJECT_ID/cellsignalmap'

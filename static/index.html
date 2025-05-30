@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Cell Signal Map</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet/dist/leaflet.css"
+  />
+  <style>
+    html, body, #map { margin:0; padding:0; height:100%; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    async function loadData() {
+      const resp = await fetch('/data');
+      return resp.json();
+    }
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      // center map around your coords
+      const map = L.map('map').setView([-19.94, -43.94], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+      }).addTo(map);
+
+      const entries = await loadData();
+      entries.forEach(e => {
+        // color by signal strength
+        const color = e.signalDbm > -80 ? 'green'
+                     : e.signalDbm > -90 ? 'orange'
+                     : 'red';
+
+        const marker = L.circleMarker([e.latitude, e.longitude], {
+          radius: 6,
+          fillColor: color,
+          color: color,
+          weight: 1,
+          opacity: 1,
+          fillOpacity: 0.8
+        }).addTo(map);
+
+        marker.bindPopup(`
+          <strong>${e.carrier}</strong><br/>
+          ${e.signalDbm} dBm<br/>
+          ${new Date(e.timestamp).toLocaleString()}
+        `);
+      });
+    });
+  </script>
+</body>
+</html>

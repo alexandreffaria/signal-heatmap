@@ -26,7 +26,7 @@ COPY --from=build /app/static ./static
 COPY --from=build /app/data.json .
 
 # expose the port your server listens on
-EXPOSE 8082
+EXPOSE 8080
 
 # run it
 CMD ["./server"]

@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Mapa do Meu Lindo - ☕/title>
+  <title>Mapa do Meu Lindo - ☕</title>
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet/dist/leaflet.css"
@@ -33,7 +33,7 @@
       entries.forEach(e => {
         // color by signal strength
         const color = e.signalDbm > -80 ? 'green'
-                     : e.signalDbm > -90 ? 'orange'
+                     : e.signalDbm > -100 ? 'orange'
                      : 'red';
 
         const marker = L.circleMarker([e.latitude, e.longitude], {

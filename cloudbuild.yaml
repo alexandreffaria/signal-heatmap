@@ -1,30 +1,33 @@
 options:
   logging: CLOUD_LOGGING_ONLY
-  
+
 steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args:
-  - build
-  - '-t'
-  - 'gcr.io/$PROJECT_ID/cellsignalmap'
-  - '.'
+  # 1) Build a fresh Docker image named gcr.io/$PROJECT_ID/cellsignalmap
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - build
+      - '-t'
+      - 'gcr.io/$PROJECT_ID/cellsignalmap'
+      - '.'
 
-- name: 'gcr.io/cloud-builders/docker'
-  args:
-  - 'push'
-  - 'gcr.io/$PROJECT_ID/cellsignalmap'
+  # 2) Push it up to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - push
+      - 'gcr.io/$PROJECT_ID/cellsignalmap'
 
-- name: 'gcr.io/cloud-builders/gcloud'
-  entrypoint: 'bash'
-  args:
-  - '-c'
-  - |
-    gcloud run deploy cellsignalmap \
-      --image gcr.io/$PROJECT_ID/cellsignalmap \
-      --platform managed \
-      --region us-central1 \
-      --allow-unauthenticated \
-      --port 8082
+  # 3) Redeploy to Cloud Run using that new image
+  - name: 'gcr.io/cloud-builders/gcloud'
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        gcloud run deploy cellsignalmap \
+          --image gcr.io/$PROJECT_ID/cellsignalmap \
+          --platform managed \
+          --region us-central1 \
+          --allow-unauthenticated
 
+# Declare which images this build will produce (optional, but recommended)
 images:
-- 'gcr.io/$PROJECT_ID/cellsignalmap'
+  - 'gcr.io/$PROJECT_ID/cellsignalmap'
